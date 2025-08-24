@@ -17,7 +17,7 @@ It highlights my skills, education, and provides an easy way to download my resu
 - JavaScript  
 
 ## 📂 Live Demo  
-🔗 [View Portfolio](https://celadon-duckanoo-187228.netlify.app/)
+🔗 [View Portfolio](https://jolly-crostata-19f0e4.netlify.app/)
 
 ## 📧 Contact  
 - LinkedIn: [Vaishali Rai](https://www.linkedin.com/in/vaishali-rai-126717290)  
