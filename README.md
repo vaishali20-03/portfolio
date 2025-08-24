@@ -17,7 +17,7 @@ It highlights my skills, education, and provides an easy way to download my resu
 - JavaScript  
 
 ## 📂 Live Demo  
-🔗 [View Portfolio](https://your-username.github.io/portfolio)  
+🔗 [View Portfolio](https://gentle-capybara-f74268.netlify.app/)
 
 ## 📧 Contact  
 - LinkedIn: [Vaishali Rai](https://www.linkedin.com/in/vaishali-rai-126717290)  
